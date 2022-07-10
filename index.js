@@ -5,3 +5,7 @@ const fun2 = () => {
 const fun = () => {
   // this is a rendom function
 };
+
+const testBrac = () => {
+  // function added in the test branch after deleting
+};
